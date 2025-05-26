@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Samuel 👋</h1>
 
-<!--
-**samiulhasansiyam/samiulhasansiyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Passionate+C+%26+C%2B%2B+Programmer;Loves+creating+efficient+code;Learning+every+day!" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🎓 I'm a Computer Science student  
+- 🔧 Skilled in `C` and `C++`  
+- 💡 Interested in systems programming, data structures, and performance optimization  
+- 🎨 I love visually representing tasks using animations (check below)  
+- 🛠️ Always learning and building!
+
+---
+
+### 💻 Languages I Code In
+
+```c
+printf("Hello, World!\n");
