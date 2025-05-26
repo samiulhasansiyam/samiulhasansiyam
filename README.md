@@ -10,8 +10,7 @@
 
 - 🎓 I'm a Computer Science student  
 - 🔧 Skilled in `C` and `C++`  
-- 💡 Interested in problem solving  
-- 🎨 I love visually representing tasks using animations (check below)  
+- 💡 Interested in problem solving   
 - 🛠️ Always learning and building!
 
 ---
